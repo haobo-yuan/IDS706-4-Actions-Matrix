@@ -3,9 +3,17 @@
 ![Lint Code](https://github.com/haobo-yuan/IDS706-3-Polars-Stat/actions/workflows/lint.yml/badge.svg)
 ![Run Tests](https://github.com/haobo-yuan/IDS706-3-Polars-Stat/actions/workflows/test.yml/badge.svg)
 
-# IDS-706 Data Engineering: Project 3
+# IDS-706 Data Engineering: Project 4
 ## AAPL Price Statistics (2010-2021)
-This is a IDS-706 week 3 project that also calculates the mean, median,and standard deviation of AAPL stock close prices from 2010 to 2021.
+This is a IDS-706 week 4 project that practices continuous integration using GitHub Actions, especially for "Github Actions Matrix Build for Multiple Python Versions".
+
+Per the project deliverables requirements, here are links to successful Gitlab/Github Actions Matrix run:
+- [Install Dependencies](https://github.com/haobo-yuan/IDS706-4-Actions-Matrix/actions/runs/11003143672)
+- [Format Code](https://github.com/haobo-yuan/IDS706-4-Actions-Matrix/actions/runs/11003143688)
+- [Lint Code](https://github.com/haobo-yuan/IDS706-4-Actions-Matrix/actions/runs/11003143685)
+- [Run Tests](https://github.com/haobo-yuan/IDS706-4-Actions-Matrix/actions/runs/11003143675)
+
+The main program calculates the mean, median,and standard deviation of AAPL stock close prices from 2010 to 2021.
 
 ![Logo Nasdaq](pictures/Logo_Nasdaq.png)![Logo AAPL](pictures/Logo_AAPL.png)
 
